@@ -1,4 +1,4 @@
-package model;
+package com.w32.tp2mobile.model;
 
 public class SensorValue{
     // Valeur sur l'axe de X

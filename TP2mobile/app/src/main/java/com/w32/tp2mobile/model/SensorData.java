@@ -1,4 +1,4 @@
-package model;
+package com.w32.tp2mobile.model;
 
 public class SensorData{
     SensorID id = SensorID.TEMPERATURE_ID;

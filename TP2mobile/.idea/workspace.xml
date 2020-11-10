@@ -42,7 +42,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/cegep/prog mobile/TP1_Etu/Tp1Android_ETU" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.w32.tp2mobile" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -118,6 +123,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="108" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1605018663968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="108" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605018663968" />
+    <state x="276" y="400" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1605018667099">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="276" y="400" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605018667099" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605018615562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605018615562" />
     <state x="776" y="298" key="chooseDestDirectoryDialog" timestamp="1605018072173">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
