@@ -7,7 +7,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_4_API_29" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -110,9 +110,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="776" y="298" key="chooseDestDirectoryDialog" timestamp="1605017432952">
+    <state x="776" y="298" key="chooseDestDirectoryDialog" timestamp="1605018072173">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="776" y="298" key="chooseDestDirectoryDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605017432952" />
+    <state x="776" y="298" key="chooseDestDirectoryDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605018072173" />
   </component>
 </project>
