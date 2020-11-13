@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">TP2mobile</string>
+    <string name="txt_button_humidity">COMMENCER HUMIDITÉ</string>
+    <string name="txt_button_temperature">COMMENCER TEMPÉRATURE</string>
+    <string name="txt_tv_title_messages">Messages</string>
+    <string name="txt_tv_messages">Messages ici</string>
+    <string name="txt_success">Succès</string>
+    <string name="txt_failure">Échec</string>
+</resources>

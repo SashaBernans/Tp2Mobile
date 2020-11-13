@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TP2mobile</string>
+    <string name="txt_button_humidity">START HUMIDITY</string>
+    <string name="txt_button_temperature">START TEMPERATURE</string>
+    <string name="txt_tv_title_messages">Messages</string>
+    <string name="txt_tv_messages">Messages here</string>
+    <string name="txt_success">Success</string>
+    <string name="txt_failure">Failure</string>
 </resources>
