@@ -1,4 +1,15 @@
 package com.w32.tp2mobile.activity;
 
-public class SensorActivity {
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+import com.w32.tp2mobile.R;
+
+public class SensorActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_sensor);
+    }
 }
